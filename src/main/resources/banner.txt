@@ -1,0 +1,24 @@
+
+                                                                                                                           bbbbbbbb
+HHHHHHHHH     HHHHHHHHH  iiii                                                        CCCCCCCCCCCCClllllll                  b::::::b
+H:::::::H     H:::::::H i::::i                                                    CCC::::::::::::Cl:::::l                  b::::::b
+H:::::::H     H:::::::H  iiii                                                   CC:::::::::::::::Cl:::::l                  b::::::b
+HH::::::H     H::::::HH                                                        C:::::CCCCCCCC::::Cl:::::l                   b:::::b
+  H:::::H     H:::::H  iiiiiiivvvvvvv           vvvvvvv eeeeeeeeeeee          C:::::C       CCCCCC l::::l uuuuuu    uuuuuu  b:::::bbbbbbbbb
+  H:::::H     H:::::H  i:::::i v:::::v         v:::::vee::::::::::::ee       C:::::C               l::::l u::::u    u::::u  b::::::::::::::bb
+  H::::::HHHHH::::::H   i::::i  v:::::v       v:::::ve::::::eeeee:::::ee     C:::::C               l::::l u::::u    u::::u  b::::::::::::::::b
+  H:::::::::::::::::H   i::::i   v:::::v     v:::::ve::::::e     e:::::e     C:::::C               l::::l u::::u    u::::u  b:::::bbbbb:::::::b
+  H:::::::::::::::::H   i::::i    v:::::v   v:::::v e:::::::eeeee::::::e     C:::::C               l::::l u::::u    u::::u  b:::::b    b::::::b
+  H::::::HHHHH::::::H   i::::i     v:::::v v:::::v  e:::::::::::::::::e      C:::::C               l::::l u::::u    u::::u  b:::::b     b:::::b
+  H:::::H     H:::::H   i::::i      v:::::v:::::v   e::::::eeeeeeeeeee       C:::::C               l::::l u::::u    u::::u  b:::::b     b:::::b
+  H:::::H     H:::::H   i::::i       v:::::::::v    e:::::::e                 C:::::C       CCCCCC l::::l u:::::uuuu:::::u  b:::::b     b:::::b
+HH::::::H     H::::::HHi::::::i       v:::::::v     e::::::::e                 C:::::CCCCCCCC::::Cl::::::lu:::::::::::::::uub:::::bbbbbb::::::b
+H:::::::H     H:::::::Hi::::::i        v:::::v       e::::::::eeeeeeee          CC:::::::::::::::Cl::::::l u:::::::::::::::ub::::::::::::::::b
+H:::::::H     H:::::::Hi::::::i         v:::v         ee:::::::::::::e            CCC::::::::::::Cl::::::l  uu::::::::uu:::ub:::::::::::::::b
+HHHHHHHHH     HHHHHHHHHiiiiiiii          vvv            eeeeeeeeeeeeee               CCCCCCCCCCCCCllllllll    uuuuuuuu  uuuubbbbbbbbbbbbbbbb
+
+
+
+
+
+
